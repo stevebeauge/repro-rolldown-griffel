@@ -7,6 +7,8 @@ that occurs on a production `vite build` with **Vite 8** (which bundles Rolldown
 
 The **same project** builds fine with **Vite 7** (Rollup/esbuild) + `@vitejs/plugin-react@5`.
 
+**Upstream issue:** https://github.com/rolldown/rolldown/issues/10044
+
 ## Reproduce
 
 ```bash
